@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages 
+## Welcome to Impact 101
 
 You can use the [editor on GitHub](https://github.com/PhilippeDrouillon/Impact101Brussels/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
