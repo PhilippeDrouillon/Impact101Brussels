@@ -1,10 +1,8 @@
-## Welcome to Impact 101
+### Welcome to Impact 101
+##What is the purpose of this Repository?
 
-You can use the [editor on GitHub](https://github.com/PhilippeDrouillon/Impact101Brussels/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+# Do you want to edit this repository ? Quick Markdown guide [here] (https://guides.github.com/features/mastering-markdown/)   
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
