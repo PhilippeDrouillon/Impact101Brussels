@@ -2,7 +2,7 @@
 ##What is the purpose of this Repository?
 
 
-Do you want to edit this repository ? Quick Markdown guide [here] (https://guides.github.com/features/mastering-markdown)   
+Do you want to edit this repository ? Quick Markdown guide [here](https://guides.github.com/features/mastering-markdown)   
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
