@@ -5,7 +5,7 @@
 * Minimal Viable Structure
 * Culture & Values
 * The Value we add
-* Roles & Accountabilities
+* [Roles & Accountabilities](roles-and-accountabilities.md)
 * [How we operate](how-we-operate.md)
 * Tools
 * Governance Update
