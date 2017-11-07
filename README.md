@@ -1,5 +1,17 @@
-## Welcome to Impact 101
-### What is the purpose of this Repository?
+## Welcome to the Impact 101 Handbook
+
+The Impact 101 handbook is a constantly evolving document that reflects how Impact 101 works and adapts.
+
+In other words, it is the Impact 101's Constitution and ground rules described as follow :
+
+* Purpose
+* Minimal Viable Structure
+* Culture & Values
+* The Value we add
+* Roles & Accountabilities
+* How we operate
+* Tools
+* Governance update
 
 
-Do you want to edit this repository ? Quick Markdown guide [here](https://guides.github.com/features/mastering-markdown)   
+
